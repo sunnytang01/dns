@@ -1,4 +1,4 @@
-{{indexmenu_n>2}}
+
 
 # 优化DNS配置方法
 
